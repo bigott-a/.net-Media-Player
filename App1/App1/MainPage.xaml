@@ -1,0 +1,41 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="App1.MainPage"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:common="using:App1.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignHeight="765" Width="Auto" d:DesignWidth="1363">
+
+
+    <Page.Resources>
+        <x:String x:Key="AppName">My Windowsplayer</x:String>
+        <x:Double x:Key="Double1">1365</x:Double>
+    </Page.Resources>
+
+    <Grid>
+        <Image Stretch="Uniform" Name="Visio" VerticalAlignment="Center" Width="{Binding Width, ElementName=grid}" Height="{Binding Height, ElementName=grid}" Margin="0,0,0,118"/>
+        <MediaElement Name="ElementMedia" MediaOpened="setSlider" MediaEnded="play" HorizontalAlignment="Center" VerticalAlignment="Center" Width="{Binding Width, ElementName=grid}" Height="{Binding Height, ElementName=grid}" AudioCategory="BackgroundCapableMedia" AudioDeviceType="Multimedia" />
+
+
+    </Grid>
+    <Page.BottomAppBar>
+        <AppBar Name="myAppBar" IsOpen="True" Height="120" Opened="init" Closed="reset">
+            <Grid>
+                <StackPanel Height="60" VerticalAlignment="Top" HorizontalAlignment="Center" Width="1200">
+                    <Slider Name="TimeBar" ValueChanged="update" PointerEntered="manipulateON" PointerExited="manipulateOFF"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Height="60" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+                    <Slider Name="VolumeBar" Maximum="100" Value="99" ValueChanged="updateVolume" Width="200" Margin="0,0,220,0"/>
+                    <Button Name="buttonPlay" Content="Play" HorizontalAlignment="Stretch" Click="play" Margin="0"/>
+                    <Button Content="Stop" HorizontalAlignment="Center" VerticalAlignment="Center" Click="stop" Margin="20,0,0,0"/>
+                    <Button Content="Open" HorizontalAlignment="Center" VerticalAlignment="Center" Click="search" Margin="250,0,0,0"/>
+                    <Button Content="library" HorizontalAlignment="Right" VerticalAlignment="Center"  Click="switchLibrary" Margin="20,0,0,0"/>
+                </StackPanel>
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+</Page>

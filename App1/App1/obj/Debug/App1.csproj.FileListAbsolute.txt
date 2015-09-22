@@ -1,0 +1,197 @@
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\App.xbf
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\MainPage.xbf
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\App1.exe
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\App1.pdb
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\resources.pri
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\AppxManifest.xml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\App1.build.appxrecipe
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.AppContainer.dll
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\bin\Debug\MicrosoftAdvertising.xml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\App.g.i.cs
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\App.g.cs
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\MainPage.g.i.cs
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\MainPage.g.cs
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\App.xaml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\MainPage.xaml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\App.xbf
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\MainPage.xbf
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\App1.exe
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\App1.pdb
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\en-US\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.FrameworkMessages.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\en-US\Microsoft.VisualStudio.TestPlatform.Core.Resources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\fr\Microsoft.VisualStudio.TestPlatform.Core.Resources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Framework.Messages.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Resources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\fr\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Resources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\fr\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Framework.Messages.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.CommonResources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.EqtMessages.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.ValidateArgStrings.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.ValidateArgStrings.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.EqtMessages.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.CommonResources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\en-US\Microsoft.VisualStudio.TestPlatform.TestExecutor.Resources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\fr\Microsoft.VisualStudio.TestPlatform.TestExecutor.Resources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\fr\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.FrameworkMessages.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\en-US\Microsoft.VisualStudio.TestPlatform.Utilities.Resources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\fr\Microsoft.VisualStudio.TestPlatform.Utilities.Resources.resw
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\App1.csproj.GenerateResource.Cache
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\layout.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\layout.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\Resources.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\Resources.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\pri.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\pri.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\priconfig.xml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\priconfig.xml.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.pri
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\qualifiers.txt
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\layout.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\layout.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\Resources.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\Resources.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\pri.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\pri.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\priconfig.xml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\priconfig.xml.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core.pri
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\qualifiers.txt
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\layout.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\layout.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\Resources.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\Resources.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\pri.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\pri.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\priconfig.xml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\priconfig.xml.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.pri
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\qualifiers.txt
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\layout.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\layout.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\Resources.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\Resources.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\pri.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\pri.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\priconfig.xml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\priconfig.xml.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.pri
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\qualifiers.txt
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\layout.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\layout.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\Resources.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\Resources.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\pri.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\pri.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\priconfig.xml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\priconfig.xml.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.pri
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\qualifiers.txt
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\layout.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\layout.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\Resources.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\Resources.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\pri.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\pri.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\priconfig.xml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\priconfig.xml.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities.pri
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\qualifiers.txt
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\priconfig.xml
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\priconfig.xml.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\layout.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\layout.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\resources.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\resources.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\pri.resfiles
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\pri.resfiles.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\qualifiers.txt
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Antoine\Documents\GitHub\MediaPlayer\App1\App1\obj\Debug\ProjectArchitectures.txt
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\App.xbf
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\MainPage.xbf
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\App1.exe
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\App1.pdb
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\resources.pri
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\AppxManifest.xml
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\App1.build.appxrecipe
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.AppContainer.dll
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\MicrosoftAdvertising.xml
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\App.g.i.cs
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\App.g.cs
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\MainPage.g.i.cs
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\MainPage.g.cs
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\App.xaml
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\App.xbf
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\MainPage.xaml
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\MainPage.xbf
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\App1.exe
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\App1.pdb
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\en-US\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.FrameworkMessages.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\en-US\Microsoft.VisualStudio.TestPlatform.Core.Resources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\fr\Microsoft.VisualStudio.TestPlatform.Core.Resources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Framework.Messages.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\en-US\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Resources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\fr\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Resources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\fr\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.Framework.Messages.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.CommonResources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.EqtMessages.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.ValidateArgStrings.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.ValidateArgStrings.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.EqtMessages.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.CommonResources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\en-US\Microsoft.VisualStudio.TestPlatform.TestExecutor.Resources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\fr\Microsoft.VisualStudio.TestPlatform.TestExecutor.Resources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\fr\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.FrameworkMessages.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\en-US\Microsoft.VisualStudio.TestPlatform.Utilities.Resources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\fr\Microsoft.VisualStudio.TestPlatform.Utilities.Resources.resw
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\App1.csproj.GenerateResource.Cache
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.pri
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.UnitTestFramework\qualifiers.txt
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core.pri
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Core\qualifiers.txt
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.pri
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter\qualifiers.txt
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.pri
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\qualifiers.txt
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.pri
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core\qualifiers.txt
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities.pri
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\Microsoft.VisualStudio.TestPlatform.Utilities\qualifiers.txt
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\priconfig.xml
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\priconfig.xml.intermediate
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\layout.resfiles
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\layout.resfiles.intermediate
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\resources.resfiles
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\resources.resfiles.intermediate
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\pri.resfiles
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\pri.resfiles.intermediate
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\qualifiers.txt
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\ProjectArchitectures.txt
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\BasicPage1.g.i.cs
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\BasicPage1.g.cs
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\BasicPage1.xaml
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\obj\Debug\BasicPage1.xbf
+C:\Users\Antoine\Documents\Visual Studio 2013\Projects\App1\App1\bin\Debug\BasicPage1.xbf

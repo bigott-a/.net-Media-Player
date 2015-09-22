@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\antoine\documents\visual studio 2013\projects\app1\app1\obj\release\intermediatexaml\app1.exe" HashGuid="ca8ca0b6-91e1-c1e8-67ca-1d14460cdc38" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoft.advertising.winrt.ui.winmd" HashGuid="6588494d-37e3-4bf8-bf82-6a4bc10c0818" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\mstestframework\11.0\references\commonconfiguration\neutral\microsoft.visualstudio.testplatform.unittestframework.appcontainer.dll" HashGuid="b6bd2ba6-e56a-d30b-bf2a-f65eae767759" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\mstestframework\11.0\references\commonconfiguration\neutral\microsoft.visualstudio.testplatform.unittestframework.dll" HashGuid="7bc88657-b251-8266-31b9-2fb432b52636" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoftadvertising.winmd" HashGuid="0dde57b7-8c99-5b9a-0771-4cdcca925c59" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

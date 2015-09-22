@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="MissingOperand" xml:space="preserve">
+    <value>Erreur : opérande manquant</value>
+  </data>
+  <data name="CannotAcceptTestResultWhenTestIsCanceled" xml:space="preserve">
+    <value>Impossible d'accepter le résultat de test, car l'exécution du test a été annulée.</value>
+  </data>
+  <data name="ServiceSecurityUserNotAllowed" xml:space="preserve">
+    <value>Vous n'êtes pas autorisé à effectuer cette opération.</value>
+  </data>
+  <data name="DuplicateExtensionUri" xml:space="preserve">
+    <value>URI d'extension de test '{0}' dupliqué. Extension dupliquée ignorée.</value>
+  </data>
+  <data name="EmptyParenthsis" xml:space="preserve">
+    <value>Erreur : parenthèses vides ( )</value>
+  </data>
+  <data name="DuplicateSettingsName" xml:space="preserve">
+    <value>Fournisseur de paramètres nommé '{0}' dupliqué. Fournisseur dupliqué ignoré.</value>
+  </data>
+  <data name="RunSettingsAlreadyLoaded" xml:space="preserve">
+    <value>Les paramètres d'exécution ont déjà été chargés.</value>
+  </data>
+  <data name="LoggerNotFound" xml:space="preserve">
+    <value>Impossible de trouver un journal de test avec l'URI ou le nom convivial '{0}'.</value>
+  </data>
+  <data name="DiscovererInstantiationException" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'instanciation du découvreur : {0}</value>
+  </data>
+  <data name="ErrorHandlerEventMessage" xml:space="preserve">
+    <value>Exception du gestionnaire d'erreurs : {0} \r\n {1}</value>
+  </data>
+  <data name="DuplicateSource" xml:space="preserve">
+    <value>Source dupliquée spécifiée '{0}' ignorée.</value>
+  </data>
+  <data name="TestRunFailed_NoTestsAreAvailableInTheSources" xml:space="preserve">
+    <value>Aucun test disponible dans {0}. Vérifiez que les paramètres des découvreurs, des exécuteurs, de la plateforme et de la version de Framework installés sont appropriés, puis réessayez.</value>
+  </data>
+  <data name="LoggerInitializationError" xml:space="preserve">
+    <value>Une exception s'est produite lors de l'initialisation du journal avec l'URI '{0}'. Le journal ne sera pas utilisé. Exception : {1}</value>
+  </data>
+  <data name="NumberOfTestCasesCannotBeLessThanOne" xml:space="preserve">
+    <value>Il doit y avoir au moins un test à récupérer.</value>
+  </data>
+  <data name="ExceptionFromRunTests" xml:space="preserve">
+    <value>Une exception s'est produite lors de l'appel de l'exécuteur '{0}' : {1}</value>
+  </data>
+  <data name="EnableShutdownAfterTestRunWhenKeepAliveIsFalse" xml:space="preserve">
+    <value>Impossible d'activer EnableShutdownAfterTestRun si la valeur de KeepAlive est false.</value>
+  </data>
+  <data name="DuplicateSettingsProvided" xml:space="preserve">
+    <value>Section de paramètres d'exécution nommée '{0}' dupliquée. Paramètres dupliqués ignorés.</value>
+  </data>
+  <data name="DataCollectionMessageFormat" xml:space="preserve">
+    <value>Message de l'adaptateur de données de diagnostic : {0}</value>
+  </data>
+  <data name="QueueAlreadyDisposed" xml:space="preserve">
+    <value>La file d'attente {0} a déjà été supprimée.</value>
+  </data>
+  <data name="WeakEventsOnlyInstanceMethodsSupportedExceptionText" xml:space="preserve">
+    <value>Une méthode de test doit être une méthode d'instance.</value>
+  </data>
+  <data name="DuplicateAdaptersFound" xml:space="preserve">
+    <value>Plusieurs adaptateurs de test avec le même URI '{0}' ont été trouvés. Adaptateur '{1}' ignoré. Veuillez désinstaller le ou les adaptateurs en conflit pour éviter cet avertissement.</value>
+  </data>
+  <data name="AppxManifestReadError" xml:space="preserve">
+    <value>Échec de lecture du fichier manifeste avec l'erreur : {0}</value>
+  </data>
+  <data name="MissingCloseParenthesis" xml:space="preserve">
+    <value>Erreur : ')' manquante</value>
+  </data>
+  <data name="DataCollectorMessageFormat" xml:space="preserve">
+    <value>Message de l'adaptateur de données de diagnostic ('{0}') : {1}.</value>
+  </data>
+  <data name="StringSeperator" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="EnableShutdownAfterTestRunBeingSetToFalse" xml:space="preserve">
+    <value>Impossible de désactiver EnableShutdownAfterTestRun dans une série de tests. La prochaine série de tests commencera avec l'état désactivé.</value>
+  </data>
+  <data name="UnsupportedPropertiesInTestCaseFilter" xml:space="preserve">
+    <value>Aucun test ne correspond au filtre car il contient une ou plusieurs propriétés non valides ({0}). Spécifiez une expression de filtre contenant des propriétés valides ({1}) et réessayez.</value>
+  </data>
+  <data name="InvalidExtensionUriFormat" xml:space="preserve">
+    <value>URI d'extension de test non valide '{0}' : {1}</value>
+  </data>
+  <data name="InvalidOperator" xml:space="preserve">
+    <value>Erreur : opérateur non valide '{0}'</value>
+  </data>
+  <data name="MissingOpenParenthesis" xml:space="preserve">
+    <value>Erreur : '(' manquante</value>
+  </data>
+  <data name="LaunchDebugProcessNotAllowedForANonDebugRun" xml:space="preserve">
+    <value>Cette opération n'est pas autorisée dans le cadre d'une exécution qui n'est pas de débogage.</value>
+  </data>
+  <data name="ExceptionFromJobProcessor" xml:space="preserve">
+    <value>Une exception non gérée s'est produite lors du traitement d'un travail à partir de la file d'attente '{0}' : {1}</value>
+  </data>
+  <data name="IgnoringExecutorAsNoDefaultExecutorUriAttribute" xml:space="preserve">
+    <value>Exécuteur de test correspondant au découvreur de test {0} ignoré, car le découvreur n'a pas l'attribut DefaultExecutorUri. Vous devrez peut-être réinstaller le complément de l'adaptateur de test.</value>
+  </data>
+  <data name="FailedToFindInstalledUnitTestExtensions" xml:space="preserve">
+    <value>Impossible de trouver la liste des extensions de test unitaire installées. Raison : {0}</value>
+  </data>
+  <data name="DiscoveryAbortNotSupportedInProc" xml:space="preserve">
+    <value>Vous pouvez abandonner une demande de découverte de test uniquement lors d'une exécution de type /InIsolation.</value>
+  </data>
+  <data name="StartIndexShouldBeNonNegative" xml:space="preserve">
+    <value>L'index de départ à partir duquel les cas de test sont récupérés ne doit pas être négatif.</value>
+  </data>
+  <data name="SettingsNodeInvalidName" xml:space="preserve">
+    <value>Nœud de paramètres non valide spécifié. La propriété de nom du nœud de paramètres ne doit pas être vide.</value>
+  </data>
+  <data name="SettingsProviderInitializationError" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'initialisation du fournisseur de paramètres nommé '{0}'. Erreur : {1}</value>
+  </data>
+  <data name="TestCaseFilterFormatException" xml:space="preserve">
+    <value>Format incorrect pour TestCaseFilter {0}. Spécifiez le format correct et réessayez. Notez qu'en cas de format incorrect, aucun test ne sera exécuté.</value>
+  </data>
+  <data name="NoDiscovererRegistered" xml:space="preserve">
+    <value>Aucun découvreur de test inscrit pour la découverte de cas de test. Inscrivez un découvreur de test, puis réessayez.</value>
+  </data>
+  <data name="InvalidCondition" xml:space="preserve">
+    <value>Erreur : condition non valide '{0}'</value>
+  </data>
+  <data name="AppxRegistrationFailure" xml:space="preserve">
+    <value>Échec du lancement du processus de l'exécuteur de test '{0}'. L'inscription du package {1} a échoué avec le code d'erreur : 0x{2:X} et le message d'erreur : {3}.\nPour plus d'informations, consultez l'Observateur d'événements sous Journaux des applications et des services -&gt; Microsoft -&gt; Windows -&gt; AppXDeployment-Server -&gt; Microsoft-Windows-AppXDeploymentServer/Operational.</value>
+  </data>
+  <data name="RunSettingsParseError" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement des paramètres d'exécution. Erreur : {0}</value>
+  </data>
+  <data name="QueuePausedDisposeError" xml:space="preserve">
+    <value>Impossible de supprimer la file d'attente {0} pendant qu'elle est suspendue.</value>
+  </data>
+  <data name="MissingOperator" xml:space="preserve">
+    <value>Opérateur manquant '|' ou '&amp;'</value>
+  </data>
+  <data name="NoMatchingExecutor" xml:space="preserve">
+    <value>Impossible de trouver l'exécuteur de test avec l'URI '{0}'. Vérifiez que l'exécuteur de test est installé et qu'il prend en charge la version {1} de .NET Runtime.</value>
+  </data>
+  <data name="TestLoggerQueueName" xml:space="preserve">
+    <value>Journal de test</value>
+  </data>
+  <data name="CollectionEmpty" xml:space="preserve">
+    <value>La collection doit contenir au moins une entrée : {0}</value>
+  </data>
+  <data name="NoDiscoveryRequest" xml:space="preserve">
+    <value>Aucun test n'a été trouvé, car aucune demande de découverte n'a été faite. Effectuez une demande de découverte, puis réessayez.</value>
+  </data>
+  <data name="AnotherDiscoveryRequestInProgress" xml:space="preserve">
+    <value>Une demande de découverte est déjà en cours. Une seule demande de découverte active est prise en charge.</value>
+  </data>
+  <data name="NoValidSourceFoundForDiscovery" xml:space="preserve">
+    <value>Aucune des sources spécifiées '{0}' n'est valide. Corrigez les erreurs/avertissements ci-dessus, puis réessayez. </value>
+  </data>
+  <data name="ExceptionFromLoadTests" xml:space="preserve">
+    <value>Une exception s'est produite lors du chargement des tests par le découvreur '{0}'. Exception : {1}</value>
+  </data>
+  <data name="SettingsProviderNotFound" xml:space="preserve">
+    <value>Le fournisseur de paramètres nommé '{0}' est introuvable. Impossible de charger les paramètres.</value>
+  </data>
+  <data name="InvalidRunSettingsRootNode" xml:space="preserve">
+    <value>Le nœud racine des paramètres d'exécution doit être nommé 'RunSettings'.</value>
+  </data>
+  <data name="NoDiscovererRegisteredForTestSource" xml:space="preserve">
+    <value>Aucun découvreur de test inscrit pour la découverte pour le type de source de test '{0}'. Inscrivez un découvreur de test pour ce type de source, puis réessayez.</value>
+  </data>
+  <data name="NoTestsFoundInContainer" xml:space="preserve">
+    <value>Aucun test découvert à partir du conteneur '{0}'.</value>
+  </data>
+</root>

@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="UTA_AssemblyCleanupMethodWasUnsuccesful" xml:space="preserve">
+    <value>La méthode Cleanup d'assembly {0}.{1} a échoué. Message d'erreur : {2}. StackTrace : {3}</value>
+  </data>
+  <data name="Common_CannotBeNullOrEmpty" xml:space="preserve">
+    <value>Le paramètre ne doit pas être null ou vide.</value>
+  </data>
+  <data name="UTA_TestInitializeAndCleanupMethodHasWrongSignature" xml:space="preserve">
+    <value>La méthode {0}.{1} possède une signature incorrecte. La méthode doit être non statique, publique et ne doit retourner aucune valeur ni accepter aucun paramètre. En outre, si vous utilisez async-await dans la méthode, return-type doit être Task.</value>
+  </data>
+  <data name="UTA_ClassOrAssemblyInitializeMethodHasWrongSignature" xml:space="preserve">
+    <value>La méthode {0}.{1} possède une signature incorrecte. La méthode doit être statique, publique et ne doit retourner aucune valeur et accepter un seul paramètre de type TestContext. En outre, si vous utilisez async-await dans la méthode, return-type doit être Task.</value>
+  </data>
+  <data name="UTA_ErrorMultiAssemblyInit" xml:space="preserve">
+    <value>UTA013 : {0} : Impossible de définir plus d'une méthode avec l'attribut AssemblyInitialize à l'intérieur d'un assembly.</value>
+  </data>
+  <data name="UTA_ErrorMultiClassInit" xml:space="preserve">
+    <value>UTA025 : {0} : Impossible de définir plus d'une méthode avec l'attribut ClassInitialize à l'intérieur d'une classe.</value>
+  </data>
+  <data name="UTA_ErrorPredefinedTestProperty" xml:space="preserve">
+    <value>UTA023 : {0} : Impossible de définir la propriété prédéfinie {2} sur la méthode {1}.</value>
+  </data>
+  <data name="UTA_InitMethodThrows" xml:space="preserve">
+    <value>La méthode d'initialisation {0}.{1} a levé une exception. {2} : {3}.</value>
+  </data>
+  <data name="TestNotFound" xml:space="preserve">
+    <value>Méthode de test {0} introuvable.</value>
+  </data>
+  <data name="Execution_Test_Timeout" xml:space="preserve">
+    <value>Le test '{0}' a dépassé le délai d'attente de l'exécution.</value>
+  </data>
+  <data name="UTA_ErrorMultiInit" xml:space="preserve">
+    <value>UTA018 : {0} : Impossible de définir plus d'une méthode avec l'attribut TestInitialize.</value>
+  </data>
+  <data name="UTA_ErrorNonPublicTestClass" xml:space="preserve">
+    <value>UTA001 : Attribut TestClass défini sur la classe non publique {0}</value>
+  </data>
+  <data name="UTA_ErrorIncorrectTestMethodSignature" xml:space="preserve">
+    <value>UTA007 : la méthode {1} définie dans la classe {0} ne dispose pas d'une signature correcte. Une méthode de test marquée avec l'attribut [TestMethod] doit être non statique, doit utiliser void pour return-type  et ne doit pas accepter aucun paramètre. Exemple : public void Test.Class1.Test(). En outre, si vous utilisez async-await dans la méthode de test, return-type doit être Task. Exemple : public async Task Test.Class1.Test2()</value>
+  </data>
+  <data name="UTA_ErrorTestPropertyNullOrEmpty" xml:space="preserve">
+    <value>UTA021 : {0} : Une propriété null ou vide personnalisée est définie sur la méthode {1}. La propriété personnalisée doit posséder un nom valide.</value>
+  </data>
+  <data name="UTA_NoTestResult" xml:space="preserve">
+    <value>Erreur lors de l'exécution du test. L'extension n'a retourné aucun résultat. Si vous utilisez l'extension de TestMethodAttribute, contactez le fournisseur.</value>
+  </data>
+  <data name="UTA_ClassCleanupMethodWasUnsuccesful" xml:space="preserve">
+    <value>La méthode de classe Cleanup {0}.{1} a échoué. Message d'erreur : {2}. Trace de la pile : {3}</value>
+  </data>
+  <data name="UTA_ErrorTestPropertyAlreadyDefined" xml:space="preserve">
+    <value>UTA022 : {0}.{1} : La propriété personnalisée "{2}" est déjà définie. Utilisation de "{3}" comme valeur.</value>
+  </data>
+  <data name="UTA_ClassInitMethodThrows" xml:space="preserve">
+    <value>La méthode de classe Initialization {0}.{1} a levé une exception. {2} : {3}.</value>
+  </data>
+  <data name="UTA_WrongThread" xml:space="preserve">
+    <value>{0}. Si vous utilisez des objets d'interface utilisateur dans un test, vous pouvez utiliser l'attribut [UITestMethod] au lieu de [TestMethod] pour exécuter le test dans le thread d'interface utilisateur.</value>
+  </data>
+  <data name="UTA_ExecuteThrewException" xml:space="preserve">
+    <value>Exception levée pendant l'exécution du test. Si vous utilisez l'extension de TestMethodAttribute, contactez le fournisseur. Message d'erreur : {0}</value>
+  </data>
+  <data name="UTA_TestMethodThrows" xml:space="preserve">
+    <value>La méthode de test {0}.{1} a levé une exception : 
+{2}</value>
+  </data>
+  <data name="UTA_CleanupMethodThrows" xml:space="preserve">
+    <value>La méthode TestCleanup {0}.{1} a levé une exception. {2} : {3}.</value>
+  </data>
+  <data name="UTA_InstanceCreationError" xml:space="preserve">
+    <value>Impossible de créer une instance de la classe {0}. Erreur : {1}.</value>
+  </data>
+  <data name="UTA_TestContextTypeMismatchLoadError" xml:space="preserve">
+    <value>{0}.TestContext possède un type incorrect.</value>
+  </data>
+  <data name="UTA_ClassOrAssemblyCleanupMethodHasWrongSignature" xml:space="preserve">
+    <value>La méthode {0}.{1} possède une signature incorrecte. La méthode doit être statique, publique et ne doit retourner aucune valeur ni accepter aucun paramètre. En outre, si vous utilisez async-await dans la méthode, return-type doit être Task.</value>
+  </data>
+  <data name="UTA_ErrorGenericTestMethod" xml:space="preserve">
+    <value>UTA015 : La méthode générique ne peut pas être une méthode de test. {0}.{1} possède une signature non valide</value>
+  </data>
+  <data name="UTA_AssemblyInitMethodThrows" xml:space="preserve">
+    <value>La méthode d'assembly Initialization {0}.{1} a levé une exception. {2} : {3}. Abandon de l'exécution de tests.</value>
+  </data>
+  <data name="UTA_ErrorMultiClean" xml:space="preserve">
+    <value>UTA024 : {0} : Impossible de définir plus d'une méthode avec l'attribut TestCleanup.</value>
+  </data>
+  <data name="UTF_FailedToGetExceptionMessage" xml:space="preserve">
+    <value>(Échec de la réception du message pour une exception de type {0} en raison d'une exception.)</value>
+  </data>
+  <data name="CouldNotInspectTypeDuringDiscovery" xml:space="preserve">
+    <value>MSTestAdapter n'a pas découvert de tests dans la classe '{0}' de l'assembly '{1}'. Raison {2}.</value>
+  </data>
+  <data name="UTA_TestContextSetError" xml:space="preserve">
+    <value>Impossible de définir la propriété TestContext pour la classe {0}. Erreur : {1}.</value>
+  </data>
+  <data name="UTA_ErrorMultiAssemblyClean" xml:space="preserve">
+    <value>UTA014 : {0} : Impossible de définir plus d'une méthode avec l'attribut AssemblyCleanup à l'intérieur d'un assembly.</value>
+  </data>
+  <data name="UTA_FailedToGetTestMethodException" xml:space="preserve">
+    <value>Échec de l'obtention de l'exception levée par la méthode de test {0}.{1}.</value>
+  </data>
+  <data name="UTA_EndOfInnerExceptionTrace" xml:space="preserve">
+    <value> --- Fin de la trace de la pile d'exception interne ---</value>
+  </data>
+  <data name="UTA_ErrorInvalidTimeout" xml:space="preserve">
+    <value>UTA054 : {0}.{1} possède un attribut Timeout non valide. Timeout doit être une valeur entière valide, qui ne doit pas être inférieure à 0.</value>
+  </data>
+  <data name="Common_MustBeGreaterThanZero" xml:space="preserve">
+    <value>Le paramètre doit être supérieur à zéro.</value>
+  </data>
+  <data name="ExecuteInClassicModeFails" xml:space="preserve">
+    <value>Impossible d'exécuter les tests unitaires pour des applications Windows Store et Windows Phone en dehors d'appcontainer. Créez un package d'application et exécutez les tests en mode appcontainer.</value>
+  </data>
+  <data name="UTA_NoDefaultConstructor" xml:space="preserve">
+    <value>Impossible d'obtenir le constructeur par défaut de la classe {0}.</value>
+  </data>
+  <data name="UTA_TestContextLoadError" xml:space="preserve">
+    <value>Impossible de trouver la propriété {0}.TestContext. Erreur :{1}.</value>
+  </data>
+  <data name="EnumeratorLoadTypeErrorFormat" xml:space="preserve">
+    <value>{0} : {1}</value>
+  </data>
+  <data name="UTA_ErrorInValidTestContextSignature" xml:space="preserve">
+    <value>UTA031 : La classe {0} ne possède pas une propriété TestContext valide. TestContext doit être de type TestContext, doit être non statique, publique, et ne doit pas être en lecture seule. Par exemple : public TestContext TestContext.</value>
+  </data>
+  <data name="UTA_CleanupMethodThrowsGeneralError" xml:space="preserve">
+    <value>Erreur lors de l'appel de la méthode de nettoyage de test pour la classe de test {0} : {1}</value>
+  </data>
+  <data name="UTA_MethodDoesNotExists" xml:space="preserve">
+    <value>La méthode {0}.{1} n'existe pas.</value>
+  </data>
+  <data name="TestAssembly_FileDoesNotExist" xml:space="preserve">
+    <value>Fichier inexistant : {0}</value>
+  </data>
+  <data name="UTA_CleanupStackTrace" xml:space="preserve">
+    <value>Trace de la pile TestCleanup</value>
+  </data>
+  <data name="UTA_TypeLoadError" xml:space="preserve">
+    <value>Impossible d'obtenir le type {0}. Erreur : {1}.</value>
+  </data>
+  <data name="TypeLoadFailed" xml:space="preserve">
+    <value>Impossible de charger les types de la source de test '{0}'. Tout ou partie des tests contenus dans cette source n'ont pas pu être détectés.</value>
+  </data>
+  <data name="UTA_ErrorMultiClassClean" xml:space="preserve">
+    <value>UTA026 : {0} : Impossible de définir plus d'une méthode avec l'attribut ClassCleanup à l'intérieur d'une classe.</value>
+  </data>
+</root>
